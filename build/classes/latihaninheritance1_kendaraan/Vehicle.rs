@@ -1,0 +1,2 @@
+Vehicle
+latihaninheritance1_kendaraan.Vehicle
